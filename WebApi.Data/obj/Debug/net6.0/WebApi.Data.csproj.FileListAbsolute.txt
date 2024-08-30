@@ -1,0 +1,42 @@
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\bin\Debug\net6.0\WebApi.Data.deps.json
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\bin\Debug\net6.0\WebApi.Data.runtimeconfig.json
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\bin\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\bin\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\WebApi.Data.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\WebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\WebApi.Data.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\WebApi.Data.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\WebApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\refint\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\WebApi.Data.genruntimeconfig.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Infrastructure\obj\Debug\net6.0\ref\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\bin\Debug\net6.0\WebApi.Data.deps.json
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\bin\Debug\net6.0\WebApi.Data.runtimeconfig.json
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\bin\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\bin\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\WebApi.Data.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\WebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\WebApi.Data.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\WebApi.Data.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\WebApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\refint\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\WebApi.Data.genruntimeconfig.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Data\obj\Debug\net6.0\ref\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\bin\Debug\net6.0\WebApi.Data.deps.json
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\bin\Debug\net6.0\WebApi.Data.runtimeconfig.json
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\bin\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\bin\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\WebApi.Data.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\WebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\WebApi.Data.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\WebApi.Data.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\WebApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\refint\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\WebApi.Data.genruntimeconfig.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Data\obj\Debug\net6.0\ref\WebApi.Data.dll

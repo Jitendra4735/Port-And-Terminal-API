@@ -1,0 +1,22 @@
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\bin\Debug\net6.0\WebApi.Utilities.deps.json
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\bin\Debug\net6.0\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\bin\Debug\net6.0\WebApi.Utilities.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\obj\Debug\net6.0\refint\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Utilities\obj\Debug\net6.0\ref\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\bin\Debug\net6.0\WebApi.Utilities.deps.json
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\bin\Debug\net6.0\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\bin\Debug\net6.0\WebApi.Utilities.pdb
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\obj\Debug\net6.0\refint\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\obj\Debug\net6.0\WebApi.Utilities.pdb
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Utilities\obj\Debug\net6.0\ref\WebApi.Utilities.dll

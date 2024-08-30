@@ -1,0 +1,51 @@
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Business.deps.json
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Business.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Utilities.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Business.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Business.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Business.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Business.csproj.CopyComplete
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\refint\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Business.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\ref\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\bin\Debug\net6.0\WebApi.Business.deps.json
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\bin\Debug\net6.0\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\bin\Debug\net6.0\WebApi.Business.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\bin\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\bin\Debug\net6.0\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\bin\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\bin\Debug\net6.0\WebApi.Utilities.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\WebApi.Business.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\WebApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\WebApi.Business.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\WebApi.Business.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\WebApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\WebApi.Business.csproj.CopyComplete
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\refint\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\WebApi.Business.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Business\obj\Debug\net6.0\ref\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\bin\Debug\net6.0\WebApi.Business.deps.json
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\bin\Debug\net6.0\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\bin\Debug\net6.0\WebApi.Business.pdb
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\bin\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\bin\Debug\net6.0\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\bin\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\bin\Debug\net6.0\WebApi.Utilities.pdb
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\WebApi.Business.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\WebApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\WebApi.Business.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\WebApi.Business.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\WebApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\WebApi.Business.csproj.CopyComplete
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\refint\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\WebApi.Business.pdb
+C:\Users\dell\Desktop\Azure\Port And Terminal API\WebApi.Business\obj\Debug\net6.0\ref\WebApi.Business.dll

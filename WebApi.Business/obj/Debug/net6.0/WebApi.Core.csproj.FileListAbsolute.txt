@@ -1,0 +1,17 @@
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Core.deps.json
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Core.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Core.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Core.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Core.AssemblyInfo.cs
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Core.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\refint\WebApi.Core.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Core.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\ref\WebApi.Core.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Core.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Infrastructure.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Utilities.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Infrastructure.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\bin\Debug\net6.0\WebApi.Utilities.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Core\obj\Debug\net6.0\WebApi.Core.csproj.CopyComplete
